@@ -1,0 +1,12 @@
+/* o aqruivo ".module" é direcionadoo a apenas um arquivo especificado*/
+
+.session {
+    margin: 80px 0;
+}
+
+.salecontainer {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    gap: 8px;
+}
