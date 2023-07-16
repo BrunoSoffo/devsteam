@@ -5,4 +5,4 @@ export default function Input({fullWidth, ...props}){
     return(
         <input className={`${styles.input} ${fullWidth &&  styles.fullwidth}`} {...props}/>
     )
-}
+} 
